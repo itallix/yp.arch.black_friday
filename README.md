@@ -33,3 +33,8 @@ curl --silent http://ifconfig.me
 ## Доступные эндпоинты
 
 Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
+
+## Задания
+
+- Сетап с шардингом, репликацией и кешированием [здесь](./sharding-repl-cache/README.md)
+- Финальная схема с балансировщиком и CDN в последней вкладке [design.drawio](./design.drawio) cdn-final
