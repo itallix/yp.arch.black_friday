@@ -37,4 +37,5 @@ curl --silent http://ifconfig.me
 ## Задания
 
 - Сетап с шардингом, репликацией и кешированием [здесь](./sharding-repl-cache/README.md)
-- Финальная схема с балансировщиком и CDN в последней вкладке [design.drawio](./design.drawio) cdn-final
+- Финальная схема с балансировщиком и CDN в последней вкладке [design.drawio](./designs.drawio) cdn-final
+- Задания 7-10 в одноименных md файлах
